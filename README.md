@@ -112,9 +112,5 @@ The dataset (`netflix_list.csv`) contains the following columns:
    
 
 
-## Acknowledgements
-
-- Data collected from the IMDB website.
-- Web scraping was used to gather the initial dataset and subsequent detailed information.
 
 
