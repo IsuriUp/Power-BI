@@ -86,10 +86,10 @@ The dataset (`netflix_list.csv`) contains the following columns:
    - Card visual displaying the average rating of all titles.
 
 4. **Titles by Rating Group**:
-   - Bar chart showing the distribution of titles by rating groups.
+   - chart showing the distribution of titles by rating groups.
 
 5. **Ratings of Television vs. Movies**:
-   - Bar chart comparing the ratings of television shows versus movies.
+   - pie chart comparing the ratings of television shows versus movies.
 
 6. **Show Types**:
    - Donut chart showing the distribution of different types of shows (e.g., Movies, TV Series).
@@ -103,17 +103,13 @@ The dataset (`netflix_list.csv`) contains the following columns:
 9. **Avg Ratings and Titles by Genre**:
    - Clustered column chart showing the average ratings and number of titles per genre.
 
-10. **Titles Over Time**:
-    - Line chart showing the number of titles released each year.
-
-11. **Rating Over Time**:
+10. **Rating Over Time**:
     - Line chart showing the average rating over the years.
 
-12. **Country Distribution**:
-    - Map visual showing the number of titles from each country.
+11. **Country Distribution**:
+    - table visual showing the number of titles from each country.
 
-13. **Language Distribution**:
-    - Tree map showing the distribution of languages.
+   
 
 
 ## Acknowledgements
