@@ -25,7 +25,7 @@ The dataset includes attributes such as invoice ID, branch, city, customer type,
 - **Order Counts**: A card visual showing the count of orders.
 - **Number of Units Sold**: A card visual showing the total number of units sold.
 - **City**: A bar chart showing sales by `City`.
-- **Unit Price**: A histogram showing the distribution of `Unit price`.
+- **Unit Price**: A column chart showing the distribution of `Unit price`.
 - **Price After Tax**: A measure visual showing the price after including tax.
 - **Total Cost**: A card visual showing the sum of the `Total` column.
 - **Total Profit**: A card visual showing the sum of the `Profit` column.
