@@ -7,6 +7,7 @@ This repository contains two Power BI dashboards:
 
 1. [Sales Analytics Dashboard]
 2. [Netflix Dataset Dashboard]
+3. [Smartphone Price & Feature Comparison]
 
 ---
 
